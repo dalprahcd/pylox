@@ -1,7 +1,7 @@
 default: fmt check
 
 fmt:
-    ruff format .
+        ruff format .
 
 check:
-    ruff check .
+        ruff check .
